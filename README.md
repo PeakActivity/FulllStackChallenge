@@ -7,16 +7,16 @@ Our IT staff has a lot of work to accomplish. We need a system to help track our
 
 #### Base Requirements For All Levels
 -------
-- Source code on **GitHub** or **Bitbucket**
+- Source code on **GitHub**, **Bitbucket** or **Gitlab**
 - Clean, readable, maintainable codebase
 - Tickets should be saved to a database
 - There should be two views
   - Submit a ticket
-        - Anyone can submit a ticket
-        - Ticket should include: Time, Date, Submitter's Email, and Description
+        - Anyone can submit a ticket.
+        - The ticket should include: Time, Date, Submitter's Email, and Description.
   - Manage tickets
-        - This view should be protected by a password
-        - IT staff should be able to mark tickets complete and remove completed tickets
+        - A password should protect this view.
+        - IT staff should be able to mark tickets complete and remove completed tickets.
 
 
 #### Levels of Awesome
@@ -45,7 +45,7 @@ Choose one of the following routes for your journey.
 
 ### TASKS ###
 
-* All of the **base**, and **novice** requirements.
+* All of the **base** and **novice** requirements.
 * Use a JavaScript framework (React, Preact,VUE, etc...)
 * Make the website responsive with your favorite tool (Flexbox, Bootstrap, Foundation, etc...)
 * Allow IT staff to make comments on tickets.
@@ -73,4 +73,3 @@ Choose one of the following routes for your journey.
 * Use serverless architecture on AWS
 * Surprise us! Add a feature that you think would work well here (for instance, advanced search, additional ticket statuses(In-Progress, Fixed, Review, etc...), time tracking, charts, etc...)
 * Show us your work through your **commit** history!
-{"mode":"full","isActive":false}
